@@ -1,0 +1,67 @@
+<resources>
+
+    <!--application name-->
+    <string name="app_name">E-Garbage App</string>
+
+    <!--activity main-->
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <!--navigasi menu-->
+    <string name="action_search">search</string>
+
+
+    <!--activity profil-->
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="hp">Phone</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>
+
+    <!--activity map-->
+
+    <!--wallet-->
+    <string name="point">Point</string>
+    <string name="status">Status</string>
+
+    <!--form_bonus-->
+    <string name="bonus_saldo">Bonus Saldo</string>
+    <string name="bonus_point">Bonus Point</string>
+    <string name="jarak">Biaya Jarak</string>
+
+    <!--biaya_sampah-->
+    <string name="sampahbasah">Sampah Basah</string>
+    <string name="sampahkering">Sampah Kering</string>
+    <string name="sampahcampuran">Sampah Campuran</string>
+    <string name="biaya">Biaya</string>
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="formbiayacustomer">Biaya Customer</string>
+    <string name="formbiayadriver">Biaya Driver</string>
+    <string name="formbiayasampah">Biaya Sampah</string>
+    <!--History-->
+    <string name="riwayat">Riwayat Transaksi</string>
+
+    <!--about information-->
+
+    <string name="customer">Customer</string>
+    <string name="driver">Driver</string>
+
+
+    <!--activity single history-->
+    <string name="saldo">Saldo</string>
+    <string name="rp">Rupiah</string>
+
+    <!--google maps api-->
+    <string name="google_maps_key2">AIzaSyDS8FN3hsLer3azeaQRhAe5mT6j5sd3sS4</string>
+
+
+    <string name="title_activity_member_map">Map</string>
+
+    <string name="pilih">Pilih</string>
+    <string-array name="status_driver">
+        <item>aktif</item>
+        <item>tidak aktif</item>
+    </string-array>
+
+
+</resources>
